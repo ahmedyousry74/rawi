@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="385" height="238" viewBox="0 0 385 238">
+  <defs>
+    <filter id="Rectangle_2552" x="-9" y="-8" width="403" height="256" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_2552)">
+        <rect id="Rectangle_2552-2" data-name="Rectangle 2552" width="385" height="238" rx="8" fill="rgba(0,88,148,0.04)"/>
+      </g>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_1410" data-name="Mask Group 1410" clip-path="url(#clip-path)">
+    <g id="Path_53562" data-name="Path 53562" transform="translate(-96.574 157)" fill="none" opacity="0.03">
+      <path d="M87.21,0c48.165,0,87.21,36.713,87.21,82s-39.045,82-87.21,82S0,127.287,0,82,39.045,0,87.21,0Z" stroke="none"/>
+      <path d="M 87.20991516113281 20 C 50.15024566650391 20 20 47.81307983398438 20 82 C 20 116.1869201660156 50.15024566650391 144 87.20991516113281 144 C 124.2695770263672 144 154.4198303222656 116.1869201660156 154.4198303222656 82 C 154.4198303222656 47.81307983398438 124.2695770263672 20 87.20991516113281 20 M 87.20991516113281 0 C 135.3746185302734 0 174.4198303222656 36.71262359619141 174.4198303222656 82 C 174.4198303222656 127.2873382568359 135.3746185302734 164 87.20991516113281 164 C 39.045166015625 164 0 127.2873382568359 0 82 C 0 36.71262359619141 39.045166015625 0 87.20991516113281 0 Z" stroke="none" fill="#005894"/>
+    </g>
+  </g>
+</svg>
